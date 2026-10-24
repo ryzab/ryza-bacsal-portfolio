@@ -1,10 +1,9 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Halu! Nice to meet you! I'm Ryza and I am currently a 4th-year BSIT student specializing in Mobile and Web Applications at National University Dasmariñas. I am passionate about **Software Development**, **Quality Assurance**, and **Database Management**.
 
 I'm currently working with,
 
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
--   GraphQL
+-   React.js / React Native
+-   Flutter / Dart
+-   Python / JavaScript
+-   SQL / MySQL / Supabase / Firebase
+-   HTML / CSS / Figma

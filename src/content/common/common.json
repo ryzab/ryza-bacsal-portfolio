@@ -1,30 +1,30 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Jan Ryza Bacsal",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "JB",
+        "desktop": "Jan Ryza Bacsal"
     },
     "mainPicture": "/assets/HP.webp",
     "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
+    "pronunciation": "/jan-ry-za-bak-sal/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
-    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "email": "bacsaljryza@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jan-ryza-bacsal/",
+    "github": "https://github.com/ryzab",
+    "resume": "https://drive.google.com/file/d/1On7rsW1IwGrsl4UQ_dh-24mNB4ZsRyXe/view?usp=sharing",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/jan-ryza-bacsal/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/ryzab"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:bacsaljryza@gmail.com"
         }
     ]
 }

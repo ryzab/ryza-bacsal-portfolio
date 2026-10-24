@@ -23,6 +23,7 @@ interface Props extends GitHubButtonProps, ReadMoreProps, LiveDemoProps {}
 
 export const ReadMore: FC<ReadMoreProps> = ({ readMore }) => {
     return readMore ? (
+        // @ts-ignore
         <Button
             data-aos="fade"
             data-aos-offset="200"
@@ -40,6 +41,7 @@ export const GitHubButton: FC<GitHubButtonProps> = ({ github, display }) => {
     const as = useBreakpointValue({ base: IconButton, lg: Button });
 
     return github ? (
+        // @ts-ignore
         <Button
             data-aos="fade"
             data-aos-delay="400"
@@ -60,6 +62,7 @@ export const LiveDemo: FC<LiveDemoProps> = ({ demo, display }) => {
     const as = useBreakpointValue({ base: IconButton, lg: Button });
 
     return demo ? (
+        // @ts-ignore
         <Button
             data-aos="fade"
             data-aos-delay="200"
@@ -76,8 +79,10 @@ export const LiveDemo: FC<LiveDemoProps> = ({ demo, display }) => {
 
 export const ProjectCardFooter: FC<Props> = ({ readMore, github, demo }) => {
     return (
+        // @ts-ignore
         <Flex justifyContent={readMore ? "space-between" : "flex-end"} alignItems="center" pt="8">
             <ReadMore readMore={readMore} />
+            {/* @ts-ignore */}
             <Flex gap="4" justifyContent="space-between" alignItems="center" display={demo || github ? "flex" : "none"}>
                 <LiveDemo demo={demo} />
                 <GitHubButton github={github} />

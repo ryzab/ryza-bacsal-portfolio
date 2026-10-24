@@ -1,5 +1,5 @@
-Hi there ✌️ nice to meet you! I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois.
+Halu again! A little bit about me, I originally was gonna persue BSBA but due to my interest in computers, specifically tech stuff, I decided to take BSIT-MWA!
 
-I'm an aspiring Software Engineer with a passion for writing code and making things on the web look pretty. I'm well acquainted with various *UX design* & *research methods* as well as *frontend*, *backend*, *database* and *cloud technologies*. I have always been a firm believer in the human element of design and knowing your audience. Therefore, I strive to create simple, functional and impactful user experiences.  I primarily code in **Python** and **Typescript**, and use **Adobe XD** and **Illustrator** for designing.
+Currently, I'm a 4th-year BSIT student specializing in Mobile and Web Applications with a passion for building functional systems and clean digital experiences. I’m well acquainted with development, database management, and UI/UX design tools like Figma and Canva. Backed by Certiport IT Specialist certifications and a TOEIC B2 proficiency, I strive to create intuitive, user-friendly, and impactful applications. I primarily code in JavaScript and React, and love bringing technical ideas to life!
 
-In my free time, I love to play volleyball, watch football ⚽, cook, play the guitar, explore neighborhoods through food and occasionally bring out my inner photographer. Also, did someone say sushi? 🍣
+In my free time, I love to take a walk, cook, watch shows and photograph things that catch my attention!

@@ -11,7 +11,7 @@ export const Experience: FC = () => {
 
     return (
         <>
-            <ArticleTitle title="Experiences" />
+            <ArticleTitle title="Leadership and Activities" />
             <br />
             <Accordion pt="2" allowMultiple index={experiencesExpanded}>
                 {configs.about.experiences.map((exp, idx) => (

@@ -1,64 +1,59 @@
 [
     {
-        "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "id": "featured-project-ligtas",
+        "title": "LIG+AS",
+        "year": "2026 - Present",
+        "location": "Capstone Project",
+        "demo": "",
+        "github": "",
+        "tags": ["Unity", "C#", "Mobile", "Web", "Game Design"],
+        "description": "Developed as a capstone initiative, LIG+AS (Learning in Gamified + Applied Simulations) is an immersive 3D disaster-preparedness application built with Unity and C#. It trains users in real-world crisis response, evacuation routing, and critical decision-making through interactive environmental simulations. The system is paired with a companion web platform featuring structured pre- and post-test assessments to measure user learning outcomes and disaster awareness progression.",
+        "image": "/assets/featured-projects/Ligtas1.jpeg",
+        "jpg": "/assets/featured-projects/Ligtas1.jpeg",
+        "allImages": [
+            "/assets/featured-projects/Ligtas1.jpeg",
+            "/assets/featured-projects/Ligtas2.jpeg",
+            "/assets/featured-projects/Ligtas3.jpeg",
+            "/assets/featured-projects/Ligtas4.jpeg",
+            "/assets/featured-projects/Ligtas5.jpeg",
+            "/assets/featured-projects/Ligtas6.jpeg",
+            "/assets/featured-projects/Ligtas7.jpeg",
+            "/assets/featured-projects/Ligtas8.jpeg",
+            "/assets/featured-projects/Ligtas9.jpeg"
+        ]
     },
     {
-        "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
-    },
-    {
-        "id": "featured-project-scrapbook",
-        "title": "Scrapbook",
-        "year": "Jan 2021 - May 2021",
-        "location": "Indiana University",
-
-        "tags": [
-            "Angular 11",
-            "Flask",
-            "Node",
-            "Python",
-            "TypeScript",
-            "Docker",
-            "Docker Hub",
-            "Jenkins",
-            "Kubernetes",
-            "GKE",
-            "GCP"
+        "id": "featured-project-cuizin",
+        "title": "CuiZin",
+        "year": "2026",
+        "location": "Client Project",
+        "demo": "",
+        "github": "",
+        "tags": ["Mobile", "Web", "E-Commerce", "Admin Dashboard"],
+        "description": "CuiZin is a comprehensive mobile and web e-commerce platform custom-built for JANNA Spice Cuisine Catering Service. The system streamlines business operations by digitizing event catering reservations and equipment rental workflows, while providing the business owner with a centralized analytics and booking-management dashboard.",
+        "image": "/assets/featured-projects/J1.jpeg",
+        "jpg": "/assets/featured-projects/J1.jpeg",
+        "mobileImages": [
+            "/assets/featured-projects/J1.jpeg",
+            "/assets/featured-projects/J2.jpeg",
+            "/assets/featured-projects/J3.jpeg",
+            "/assets/featured-projects/J4.jpeg",
+            "/assets/featured-projects/J5.jpeg",
+            "/assets/featured-projects/J6.jpeg",
+            "/assets/featured-projects/J7.jpeg",
+            "/assets/featured-projects/J8.jpeg",
+            "/assets/featured-projects/J9.jpeg",
+            "/assets/featured-projects/J10.jpeg",
+            "/assets/featured-projects/J11.jpeg",
+            "/assets/featured-projects/J12.jpeg"
         ],
-        "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
-        "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
-        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
-        "image": "/assets/featured-projects/scrapbook.webp",
-        "jpg": "/assets/featured-projects/scrapbook.jpeg"
-    },
-    {
-        "id": "featured-project-measure-ux",
-        "location": "Indiana University",
-        "title": "Measuring User Experience",
-        "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
-        "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
-        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
-        "image": "/assets/featured-projects/measure-ux.webp",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "webImages": [
+            "/assets/featured-projects/JW1.jpeg",
+            "/assets/featured-projects/JW2.jpeg",
+            "/assets/featured-projects/JW3.jpeg",
+            "/assets/featured-projects/JW4.jpeg",
+            "/assets/featured-projects/JW5.jpeg",
+            "/assets/featured-projects/JW6.jpeg"
+        ]
     }
 ]

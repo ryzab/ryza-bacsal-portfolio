@@ -19,14 +19,15 @@ const headerStyles = {
 export const Footer: FC = () => {
     return (
         <>
-            <PageHeader label="SAY HI" />
+        {/* @ts-ignore */}
+            <PageHeader label="Let's Connect!" />
             <Flex pb="2" gap="3" overflow="hidden" alignItems="center">
                 <Heading {...headerStyles} onClick={onMailTo} fontSize="2xl">
                     {configs.common.email}
                 </Heading>
             </Flex>
             <Text>
-                If you want to know more about my experiences and journey, or just talk in general, get in touch! ✌️
+                If you want to know more about me, feel free to reach out via email or connect with me on social media. I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions!
             </Text>
             <Box pt="16">
                 <Socials delay={100} exclude={["mail"]} />
@@ -39,7 +40,7 @@ export const Footer: FC = () => {
                 justifyContent={{ base: "center", md: "space-between" }}
                 direction={{ base: "column", md: "row" }}
             >
-                <Text>This site is hand-crafted, with care by me.</Text>
+                <Text>Credits to Mr. Hrishikesh Paul</Text>  <Text>Modified by Jan Ryza Bacsal</Text>
                 <Text>&copy; {new Date().getFullYear()} All rights reserved.</Text>
             </Flex>
         </>
