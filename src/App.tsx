@@ -32,6 +32,7 @@ const FeaturedProjects = lazy(() =>
 const About = lazy(() => import("pages/about/About").then((module) => ({ default: module.About })));
 
 const Loader: FC = () => (
+    // @ts-ignore
     <Center w="100%" h="100%">
         <Spinner size="lg" color="primary.500" />
     </Center>
